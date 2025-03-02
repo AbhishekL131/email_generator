@@ -11,7 +11,7 @@ An AI-powered **Cold Email Generator** that helps job seekers create professiona
 ✅ Hosted on **Vercel** with frontend on **GitHub Pages** 🌍  
 
 ## 🚀 Live Demo
-🔗 **Try it now:** [Cold Email Generator](https://cold-email-gii4f07dj-abhisheks-projects-49bbe572.vercel.app)
+🔗 **Try it now:** currently working to fix this -> soon it will be live
 
 ## 📂 Tech Stack
 - **Frontend:** HTML, CSS (Advanced Styling), JavaScript 🎭  
